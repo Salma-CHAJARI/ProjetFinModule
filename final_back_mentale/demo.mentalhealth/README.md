@@ -106,3 +106,8 @@ Métriques actuelles :
 - Assurez-vous que les mesures de sécurité appropriées sont mises en place avant le déploiement en production
 - Augmentation de la couverture des tests recommandée
 - Résoudre les problèmes de fiabilité identifiés par SonarQube
+- 
+## ✍️ Auteurs
+
+- **SAKHR Niama**
+- **CHAJARI Salma**
