@@ -167,3 +167,8 @@ Vous pouvez maintenant interagir avec le chatbot et utiliser le système d'inter
 ## Licence
 
 Ce projet est sous licence MIT 
+
+## ✍️ Auteurs
+
+- **SAKHR Niama**
+- **CHAJARI Salma**
